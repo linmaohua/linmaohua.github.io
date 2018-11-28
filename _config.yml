@@ -1,0 +1,26 @@
+# Site settings
+name: ITCAT
+email: 445184148@qq.com
+author: linmaohua
+url: http://loneranger.vip
+resume_site: 
+github: https://github.com/linmaohua/
+baseurl: ""
+description: a little bit more
+meta_description: 
+motto: 
+banner: 
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: linmaohua
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 2a90bb33756f4ddd8f8cfdd77bc3fc03
+
